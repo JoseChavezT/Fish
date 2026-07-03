@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Wooden Pallet Base (Left Side) -->
+    <path
+        android:fillColor="#0A8F5C"
+        android:pathData="M 26,74 L 26,80 L 54,94 L 54,88 Z" />
+
+    <!-- Wooden Pallet Base (Right Side) -->
+    <path
+        android:fillColor="#065F3E"
+        android:pathData="M 54,88 L 54,94 L 82,80 L 82,74 Z" />
+
+    <!-- Pallet Feet / Gaps (Left) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 33,78 L 33,83 L 39,86 L 39,81 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 43,83 L 43,88 L 49,91 L 49,86 Z" />
+
+    <!-- Pallet Feet / Gaps (Right) -->
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 59,86 L 59,91 L 65,88 L 65,83 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M 69,81 L 69,86 L 75,83 L 75,78 Z" />
+
+    <!-- Main Box Left Face -->
+    <path
+        android:fillColor="#0A8F5C"
+        android:pathData="M 26,42 L 26,72 L 54,86 L 54,56 Z" />
+
+    <!-- Main Box Right Face -->
+    <path
+        android:fillColor="#0FAD72"
+        android:pathData="M 54,56 L 54,86 L 82,72 L 82,42 Z" />
+
+    <!-- Main Box Top Face -->
+    <path
+        android:fillColor="#16C784"
+        android:pathData="M 54,28 L 26,42 L 54,56 L 82,42 Z" />
+
+    <!-- Decorative Top Tape/Strap -->
+    <path
+        android:fillColor="#075737"
+        android:pathData="M 50,30 L 36,37 L 40,39 L 54,32 Z" />
+    <path
+        android:fillColor="#075737"
+        android:pathData="M 54,32 L 68,39 L 72,37 L 58,30 Z" />
+
+    <!-- Isometric Box Details (Lid Line) -->
+    <path
+        android:fillColor="#075737"
+        android:pathData="M 26,46 L 54,60 L 82,46 L 82,47 L 54,61 L 26,47 Z" />
+</vector>
